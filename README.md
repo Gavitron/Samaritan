@@ -1,5 +1,5 @@
-# Full Interface:
+# Forked from:
 ## https://thefeaturedepic.github.io/Samaritan
 
 ## Individual Pages:
-### [Beta Test](https://thefeaturedepic.github.io/Samaritan/beta.html)
+### [Beta Test](https://gavitron.github.io/Samaritan/beta.html)
