@@ -124,8 +124,8 @@ html {
   animation: blink-empty 0.5s infinite;
   background-colour: transparent;
   position: absolute;
-  bottom: 26px;
-  left: 298px;
+  bottom: 24px;
+  left: 320px;
 }
 
 @keyframes blink-empty {
